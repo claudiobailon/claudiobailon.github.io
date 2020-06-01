@@ -14,10 +14,10 @@
 | \<em\> | Words wrapped in this tag are emphasized  |
 | \<br\> | Creates a line break  |
 | \<ol\> | Creates an ordered list |
-| \<li\> | List Item, items in lists must be wrapped in <li> tag |
+| \<li\> | List Item, items in lists must be wrapped in \<li\> tag |
 | \<ul\> |Creates an unordered list  |
 | \<!-- --> | Adds a comment that will not be visible to the user's browser |
-| <a href="URL"> |This creates a link to page referenced in href attribute  |
+| \<a href="URL"\> |This creates a link to page referenced in href attribute  |
 
 
 # Intro to JavaScript
