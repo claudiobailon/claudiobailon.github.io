@@ -1,7 +1,7 @@
 # **Code 201 Reading Notes**
  
-This webpage is a place to keep notes for Code 201.  
-
+  
+### <addr> Table of Contents
 * Daily Notes 1
 * Daily Notes 2
 * Daily Notes 3
