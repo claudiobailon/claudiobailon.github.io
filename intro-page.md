@@ -7,9 +7,11 @@ permalink: /reading-notes/
   
 ### CSS
 *table
- 
+[Return to Homepage](https://claudiobailon.github.io/reading-notes/)
 
+
+ 
 >Education is not the learning of facts,
 >but the training of the mind to think.
-
--*Albert Einstein*
+>
+>-<cite>*Albert Einstein*</cite>
