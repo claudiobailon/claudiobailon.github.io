@@ -4,7 +4,7 @@
 ## Element and Tags Basics Cheat Sheet
 
 | Element  | Description |
-| ------------- | ------------- |
+| ---------------- | ---------------- |
 | \<body\> | Everything inside is shown inside the main browser window  |
 | \<head\>  | Before \<body\>, you usually find this element that contains information about the page  |
 | \<title\> | The contents of are either shown in the top of the browser or on the tab of that page|
@@ -18,9 +18,10 @@
 | \<ul\> |Creates an unordered list  |
 | \<!-- --> | Adds a comment that will not be visible to the user's browser |
 | \<a href="URL"\> |This creates a link to page referenced in href attribute  |
+| \<div\> | This element allows you to group a set of elements together in one block-level box |
+| \<span\> | This element acts like an inline equivalent to the \<div\> element  |
 
 
-# Intro to JavaScript
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
 
