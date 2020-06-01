@@ -5,7 +5,7 @@
 
 | Element  | Description |
 | ------------- | ------------- |
-| <body> | Everything inside is shown inside the main browser window  |
+| \<body\> | Everything inside is shown inside the main browser window  |
 | <head>  | Before <body>, you usually find this element that contains information about the page  |
 | <title> | The contents of are either shown in the top of the browser or on the tab of that page|
 | <p> | Contents are put into a paragraph  |
