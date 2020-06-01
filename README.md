@@ -1,4 +1,4 @@
-# ** Code 201 Reading Notes **
+# **Code 201 Reading Notes**
  
 This webpage is a place to keep notes for Code 201.  
 
