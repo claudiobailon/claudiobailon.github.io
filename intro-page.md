@@ -1,7 +1,3 @@
-layout: page
-title: "Code 201 Reading Notes"
-permalink: /reading-notes/
-
 # Intro to Html
  
   
