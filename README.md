@@ -2,7 +2,7 @@
  
   
 ### <addr> Table of Contents
-* Daily Notes 1
+* Daily Notes 1 {Introduction to HTML and JavaScipt}()
 * Daily Notes 2
 * Daily Notes 3
 * Daily Notes 4
