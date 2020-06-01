@@ -1,7 +1,7 @@
-# Intro to Html
+# Intro to HTML
  
   
-### CSS
+### C
 *table
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
 
