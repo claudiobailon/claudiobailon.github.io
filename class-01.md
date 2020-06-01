@@ -1,8 +1,12 @@
 # Intro to HTML
  
   
-### C
-*table
+### 
+
+
+
+# Intro to JavaScript
+
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
 
 
