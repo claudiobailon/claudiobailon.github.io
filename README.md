@@ -1,5 +1,5 @@
 # **Code 201 Reading Notes**
- 
+This page to keep track of notes taken for Code 201 and to practice the methods learned!
   
 ### <addr> Table of Contents
 * Daily Notes 1 [Introduction to HTML and JavaScipt](class-01.md)
