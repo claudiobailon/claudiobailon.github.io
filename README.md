@@ -17,6 +17,8 @@
 * Daily Notes 13
 * Daily Notes 14
 * Daily Notes 15
+ 
+ 
 
 >Education is not the learning of facts,
 >but the training of the mind to think.
