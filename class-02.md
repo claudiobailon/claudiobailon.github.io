@@ -1,6 +1,6 @@
 # More HTML and JavaScipt, <br> plus CSS and GIT!
   
-### The seven commandments of Git commit messages
+### The 7 commandments of Git commit messages
 1. Separate subject from body with a blank line
 2. Limit the subject line to 50 characters
 3. Capitalize the subject line
