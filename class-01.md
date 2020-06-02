@@ -31,5 +31,5 @@
 >but the training of the mind to think.
 > -- <cite>[Albert Einstein][1]</cite>
 
-[1]:https://www.goodreads.com/quotes/6137386-education-is-not-the-learning-of-facts-but-the-training  <!--learned how to cite from https://stackoverflow.com/questions/2002120/citing-the-author-of-a-blockquote-using-markdown-syntax --!>
+[1]:https://www.goodreads.com/quotes/6137386-education-is-not-the-learning-of-facts-but-the-training  
 
