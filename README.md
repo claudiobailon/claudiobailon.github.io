@@ -3,7 +3,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
   
 ### <addr> Table of Contents
 * Daily Notes 1 [Introduction to HTML and JavaScipt](class-01.md)
-* Daily Notes 2 [More HTML and JavaScript, plus CSS](class-02.md)
+* Daily Notes 2 [More HTML and JavaScript, plus CSS and GIT](class-02.md)
 * Daily Notes 3
 * Daily Notes 4
 * Daily Notes 5
