@@ -21,8 +21,6 @@
 * CSS rules usually appear in a separate document using the /<link/> element, although they may appear within an HTML page using the <style> element.
 * CSS rules cascade when two or more rules apply to the same element.  If two selectors are identical, the *latter* of the two will take precedence.  If one selector is more specific, the more *specific* rule will take precedence.  You can add !important after any propery value to indicate that it should take precedence.  
   
-### Intro to JavaScript
-
 
 
 
