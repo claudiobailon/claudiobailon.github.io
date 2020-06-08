@@ -22,21 +22,13 @@ This means that you should make sure you have a very good understanding of the p
 * The value of a property can be a string, number, boolean, array, or even another object.  
 * The value of a methos is always a function.
   
-
-
-
-
 ### The DOM
 
-| Element  | Description |
-| ---------------- | ---------------- |
-| \<b\> | Words wrapped in this tag make them appear bold  |
-| \<i\>  | Words wrapped in this tag make them appear italic  |
-| \<sup\> | This element is used to contain characters that should be superscript i.e. mathamatical exponents|
-| \<sub\> | This element is used to contain characters that should be subscript i.e. foot notes or chemical formulas |
-| \<hr\> | Creates a horizantal line  |
-| \<blockquote\> | Used for longer quotes that take up an entire paragraph. Still must use <p> element |
-| \<cite\> | used to indicate whre the citation is from, browsers will render contents in italic|
+* The browser represents the page using a DOM tree.
+* DOM trees have four types of nodes: document nodes, element nodes, attribute nodes, and text nodes.
+* You can select element nodes by their id or class atrributes, by tag name, or ussing CSS selector syntax.
+* Wehenever DOM query can return more than one node, it will always return a NodeList.
+
 
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
