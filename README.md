@@ -7,7 +7,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
 * Daily Notes 3
 * Daily Notes 4
 * Daily Notes 5
-* Daily Notes 6
+* Daily Notes 6 [Problem Domain, Objects, and the DOM](class-06.md)
 * Daily Notes 7
 * Daily Notes 8
 * Daily Notes 9
