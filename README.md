@@ -8,7 +8,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
 * Daily Notes 4
 * Daily Notes 5
 * Daily Notes 6 [Problem Domain, Objects, and the DOM](class-06.md)
-* Daily Notes 7[Domain Modeling, Tables, and More about Objects](class-07.md)
+* Daily Notes 7 [Domain Modeling, Tables, and More about Objects](class-07.md)
 * Daily Notes 8
 * Daily Notes 9
 * Daily Notes 10
