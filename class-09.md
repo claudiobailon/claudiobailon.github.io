@@ -1,18 +1,20 @@
-# Domain Modeling, Tables, and More about Objects
+# Forms and JS Events
 
-### Domain Modeling
+### Events
 
-The web link talked about domain modeling.   It is the process of creating a model for a specific problem. This process can help you get a fuller undestanding of the problem
+Events are the browser's way of indicating when somethng has happened (such as when a page has finished loading or a button haas been clicked. Binding is the process of stting which element you are waiting for that event to happe upon.When an event occurs on an element, it can trigger a JavaScript funtion. When this funtion then changes the web page in some way, it feels interactive because it has responded to the user.  
+
+Interactions create events ---> Events trigger code --> Code responds to Users
+
+Types of Events include load, unload, error, resize, scroll, keydown, keyup, keypress, click, dbclick, etc..
 
   
-### Tables
+### Forms
 
-The HTML reading described how to use the <table> element to create a table on a webpage.  The table is created row by row with the <\tr> element and each row has cells created by eiter the <\td> element or <\th> element if it's a header.  
+* Whenever you want to collect information from visitors, you will need a form, which lives inside a <\form> element
+* Information from a form is sent in name/value pairs.
+* Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server.
 
-
-### Objects
-
-The JavaSrcipts reading expanded more on Objects, including creating many objects by using function.  
 
 
 
