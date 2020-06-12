@@ -11,7 +11,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
 * Daily Notes 7 [Domain Modeling, Tables, and More about Objects](class-07.md)
 * Daily Notes 8 [CSS Layout](class-08.md)
 * Daily Notes 9 [Forms and JS Events](class-09.md)
-* Daily Notes 10
+* Daily Notes 10 [Error Handling and Debugging](class-10.md)
 * Daily Notes 11
 * Daily Notes 12
 * Daily Notes 13
