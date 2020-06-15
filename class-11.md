@@ -1,22 +1,16 @@
-# Forms and JS Events
+# Audio, Video, and Images
 
-### Events
+### Images and Practical Information
+You can specify the dimensions of images using CSS. They can be aligned both horizontally and vertically.  You can use a background image behind the box vreated by any element on a page.  Background images can appear just once or be repeated across the background of the box.  You can create image rollover effects by moving the background position of an image.  To reduce teh images oyour browser has to load, you can create image sprites.  
 
-Events are the browser's way of indicating when somethng has happened (such as when a page has finished loading or a button haas been clicked. Binding is the process of stting which element you are waiting for that event to happe upon.When an event occurs on an element, it can trigger a JavaScript funtion. When this funtion then changes the web page in some way, it feels interactive because it has responded to the user.  
-
-Interactions create events ---> Events trigger code --> Code responds to Users
-
-Types of Events include load, unload, error, resize, scroll, keydown, keyup, keypress, click, dbclick, etc..
+Search engine optimization helps visitors find your sites hen using search engines.  Analytics tools such as Google Analytics allow you to see how many people visit your site, how they find it, and what they do when they get there. To put your site on the web, you will need to obtain a domain name and web hosting.  FTP programs allow you to transfer files from your local computer to your web server.  Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
 
   
-### Forms
-
-* Whenever you want to collect information from visitors, you will need a form, which lives inside a \<form> element
-* Information from a form is sent in name/value pairs.
-* Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server.
-
-
-
+### Audio and Video
+The /<video> and /<audio> elements allow us to embed video and audio clips into web pages.  The HTMLMediaElement API provides features to allow you to control video and audio players progammatically.  
+  
+### Flash
+Since the late 1990s, flash has been a very popular tool for creating animations, and later for palying audio and video in websites.  Since 2005, a number of factors hae meant that fewer websites are written in flash or even use elements of flash in their pages.  
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
 
