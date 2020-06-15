@@ -12,7 +12,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
 * Daily Notes 8 [CSS Layout](class-08.md)
 * Daily Notes 9 [Forms and JS Events](class-09.md)
 * Daily Notes 10 [Error Handling and Debugging](class-10.md)
-* Daily Notes 11[Audio, Video,& Images](class-11.md)
+* Daily Notes 11 [Audio, Video,& Images](class-11.md)
 * Daily Notes 12
 * Daily Notes 13
 * Daily Notes 14
