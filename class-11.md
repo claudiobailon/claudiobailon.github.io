@@ -7,7 +7,7 @@ Search engine optimization helps visitors find your sites hen using search engin
 
   
 ### Audio and Video
-The /<video> and /<audio> elements allow us to embed video and audio clips into web pages.  The HTMLMediaElement API provides features to allow you to control video and audio players progammatically.  
+The \<video> and \<audio> elements allow us to embed video and audio clips into web pages.  The HTMLMediaElement API provides features to allow you to control video and audio players progammatically.  
   
 ### Flash
 Since the late 1990s, flash has been a very popular tool for creating animations, and later for palying audio and video in websites.  Since 2005, a number of factors hae meant that fewer websites are written in flash or even use elements of flash in their pages.  
