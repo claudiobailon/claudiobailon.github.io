@@ -15,7 +15,7 @@ This page to keep track of notes taken for Code 201 and to practice the methods 
 * Daily Notes 11 [Audio, Video,& Images](class-11.md)
 * Daily Notes 12 [Canvas](class-12.md)
 * Daily Notes 13 [Local Storage](class-13.md)
-* Daily Notes 14
+* Daily Notes 14 [Google Teamwork and CSS Animations](class-14.md)
 * Daily Notes 15
  
  
