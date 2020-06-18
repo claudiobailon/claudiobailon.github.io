@@ -12,7 +12,10 @@ The skew value is used to distort an element on it x axis, y axis, or both, with
 
 You can combine values by listing the transform values within the transform property one after the other without the use of commas. " transform: rotate(25deg) scale(.75) skew(10deg, 20deg) translateX(20px)" would rotate an element 25 degrees clockwise, scale it down to 75% of it's size, skew it's x-axis 10 degrees and y axis 20 degrees, and moves it down 20 pixels.
 
+### Google Teamwork
+The bulk of moder work is becoming more and more team based.  Time spent collaborating has gone up by 50% in the last 20 years, and more that 75% of an employee's day is spent communicating with co-workers.  Groups also tend to innovate faster, see mistakes more quickly, and find better solutions to problems. Also,  people working in teams tend to achieve better results and report higher job satisfaction. So, if a company wants to outpace their competitors,  it needs to influence not only how people work but also how they work together.
 
+That's Google's Project Aristotle sought to find out what makes a team work well together.  They concluded that understanding and influencing group norms were the keys to improving Google’s teams. But the difficult part was that some team's norms were very different from anothers, while both found success.  They found two things at the heart of what made a team succesful. One, on the good teams, members spoke in roughly the same proportion.  The times they talked varied, but what was important is that every member of the team had the opportunity to speak and spoke roughly the same amount as everyone else.  The most important thing, however, was 
 
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)
