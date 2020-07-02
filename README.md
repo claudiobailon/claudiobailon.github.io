@@ -1,22 +1,12 @@
-# **Code 201 Reading Notes**
-This page to keep track of notes taken for Code 201 and to practice the methods learned!
+# **Reading Notes**
+This page to keep track of notes taken during classes at Code Fellows and to practice the methods learned!
   
-### <addr> Table of Contents
-* Daily Notes 1 [Introduction to HTML and JavaScipt](class-01.md)
-* Daily Notes 2 [More HTML and JavaScript, plus CSS and GIT](class-02.md)
-* Daily Notes 3
-* Daily Notes 4
-* Daily Notes 5
-* Daily Notes 6 [Problem Domain, Objects, and the DOM](class-06.md)
-* Daily Notes 7 [Domain Modeling, Tables, and More about Objects](class-07.md)
-* Daily Notes 8 [CSS Layout](class-08.md)
-* Daily Notes 9 [Forms and JS Events](class-09.md)
-* Daily Notes 10 [Error Handling and Debugging](class-10.md)
-* Daily Notes 11 [Audio, Video,& Images](class-11.md)
-* Daily Notes 12 [Canvas](class-12.md)
-* Daily Notes 13 [Local Storage](class-13.md)
-* Daily Notes 14 [Google Teamwork and CSS Animations](class-14.md)
-* Daily Notes 15
+## <addr> Courses
+### Code 201 - [Foundations of Software Development](201.md)
+### Code 301 - [Intermediate Software Development](301.md)
+### Code 401 - [Advanced Software Development](401.md)
+
+
  
  
 
