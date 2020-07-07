@@ -1,25 +1,19 @@
 # Responsive Web Design
  
   
-## Element and Tags Basics Cheat Sheet
+## Overview
 
-| Element  | Description |
-| ---------------- | ---------------- |
-| \<body\> | Everything inside is shown inside the main browser window  |
-| \<head\>  | Before \<body\>, you usually find this element that contains information about the page  |
-| \<title\> | The contents of are either shown in the top of the browser or on the tab of that page|
-| \<p\> | Contents are put into a paragraph  |
-| \<h1\>-\<h6\>| These create headings of varying sizes where \<h1\> is the largest and \<h6\> is the smallest |
-| \<strong\> | Words wrapped in this tag are marked as important and made bold |
-| \<em\> | Words wrapped in this tag are emphasized  |
-| \<br\> | Creates a line break  |
-| \<ol\> | Creates an ordered list |
-| \<li\> | List Item, items in lists must be wrapped in \<li\> tag |
-| \<ul\> |Creates an unordered list  |
-| \<!-- --> | Adds a comment that will not be visible to the user's browser |
-| \<a href="URL"\> |This creates a link to page referenced in href attribute  |
-| \<div\> | This element allows you to group a set of elements together in one block-level box |
-| \<span\> | This element acts like an inline equivalent to the \<div\> element  |
+Responsive web design is the practice of building a website suitable to work on every device
+and every screen size, regardless of if it is on mobile or a desktop.  It is focused on providing an intuitive and gratifying experience for everyone.  All users benefit from responsive websites. Responsive web design is broken down into three main components: flexible layouts, media queries, and flexible media.  
+
+Flexible layouts is the practice of building the layout of a webiste with a flexible grid, capable of dynamicly resizing to any width.  
+
+Media queries were built as an extension to media types commonly found when targeting and including styles.  They provide the ability to specify different styles for different browsers and device circumstances, the width of the viewport or device orientation.  
+
+Flexible media is vital to responsive web design.  As viewports begin to change size, media doesn't always follow.  Images, videos, and other media types need to be scalable.
+
+
+
 
 
 
