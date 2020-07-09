@@ -46,8 +46,8 @@ For example, grid-template: 50% 50% / 200px; will create a grid with two rows th
 
 
 ### Reading Links
-[<link>https://cssgridgarden.com/</link>](https://cssgridgarden.com/)<br>
-[link>https://css-tricks.com/snippets/css/complete-guide-grid/<link>](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[https://cssgridgarden.com/](https://cssgridgarden.com/)<br>
+[https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 
