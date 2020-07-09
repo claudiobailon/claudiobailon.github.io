@@ -46,7 +46,7 @@ For example, grid-template: 50% 50% / 200px; will create a grid with two rows th
 
 
 ### Reading Links
-<link>https://cssgridgarden.com/</link><br>
+<link>https://cssgridgarden.com/</link>
 <link>https://css-tricks.com/snippets/css/complete-guide-grid/<link>
 
 
