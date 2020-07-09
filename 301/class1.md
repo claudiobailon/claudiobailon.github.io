@@ -14,12 +14,11 @@ Flexible media is vital to responsive web design.  As viewports begin to change 
 
 
 ### Reading Links
-https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
-https://css-tricks.com/all-about-floats/
-http://smacss.com/
-https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/
-https://css-tricks.com/dont-overthink-it-grids/
-
+[https://learn.shayhowe.com/advanced-html-css/responsive-web-design/](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+[https://css-tricks.com/all-about-floats/](https://css-tricks.com/all-about-floats/)
+[http://smacss.com/](http://smacss.com/)
+[https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/](https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/)
+[https://css-tricks.com/dont-overthink-it-grids/](https://css-tricks.com/dont-overthink-it-grids/)
 
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/)

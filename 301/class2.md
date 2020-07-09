@@ -114,7 +114,7 @@ $("div").click(function() {
 
 
 ### Reading Links
-https://www.codefellows.org/blog/6-reasons-for-pair-programming/
+[https://www.codefellows.org/blog/6-reasons-for-pair-programming/](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
 Skim pages 302-305 and 332-335
 
