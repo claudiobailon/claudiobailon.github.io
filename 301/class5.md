@@ -7,7 +7,7 @@ I did the first two steps in prework, so I just had to finish "prepare the app",
 
 
 ### Reading Links
-[Getting Started With Heroku](https://ancient-harbor-56305.herokuapp.com/)
+[Getting Started With Heroku](https://ancient-harbor-56305.herokuapp.com/)<br>
 [Deploy Your Blog To Heroku](https://howtonode.org/deploy-blog-to-heroku)
 
 
