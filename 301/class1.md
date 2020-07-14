@@ -21,7 +21,7 @@ Flexible media is vital to responsive web design.  As viewports begin to change 
 [https://css-tricks.com/dont-overthink-it-grids/](https://css-tricks.com/dont-overthink-it-grids/)
 
 
-[Return to Homepage](https://claudiobailon.github.io/reading-notes/)
+[Return to Homepage](https://claudiobailon.github.io/reading-notes/301.html)
 
 
  

@@ -118,7 +118,7 @@ $("div").click(function() {
 JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
 Skim pages 302-305 and 332-335
 
-[Return to Homepage](https://claudiobailon.github.io/reading-notes/)
+[Return to Homepage](https://claudiobailon.github.io/reading-notes/301.html)
 
 
  

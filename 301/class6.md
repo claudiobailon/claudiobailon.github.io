@@ -12,7 +12,7 @@ Node.js lets us run JS on the server.  This has been tried before, but Node.js i
 
 
 ### Reading Links
-[An intro to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
+[An intro to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/301.html)
 
 
 

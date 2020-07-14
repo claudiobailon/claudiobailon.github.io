@@ -51,7 +51,7 @@ For example, grid-template: 50% 50% / 200px; will create a grid with two rows th
 
 
 
-[Return to Homepage](https://claudiobailon.github.io/reading-notes/)
+[Return to Homepage](https://claudiobailon.github.io/reading-notes/301.html)
 
 
  
