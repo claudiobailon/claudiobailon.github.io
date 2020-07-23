@@ -1,14 +1,13 @@
-# CSS Grid
+# DB Normalization
  
   
 ## Overview
-
+Database normalization is a process used to organize a database into tables and columns. That table should be about a specific topic with only supporting topics included. By limiting a table to one purpuse, you reduce the number of duplicate data contained within your database.
 
 
 
 ### Reading Links
-
-
+[Database Normalization Explained](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 
 [Return to Homepage](https://claudiobailon.github.io/reading-notes/301.html)
