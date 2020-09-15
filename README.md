@@ -4,7 +4,7 @@ This page to keep track of notes taken during classes at Code Fellows and to pra
 ## <addr> Courses
 ### Code 201 - [Foundations of Software Development](201.md)
 ### Code 301 - [Intermediate Software Development](301.md)
-### Code 401 - [Advanced Software Development](401.md)
+### Code 401 - [Advanced Software Development in Java](401.md)
 
 
  
