@@ -9,9 +9,11 @@ Example:<br>
 @ResponseBody
 public String getExample{ath(){
  return "Get Example"
- }`
- ### @RequestMapping- HTTP Mehtod
- The HTTP method parameter has no default, so if we don't specifiy a value, it will map to any HTTP request.
+ }`<br>
+ 
+ ### @RequestMapping- HTTP Method
+ 
+ The HTTP method parameter has no default, so if we don't specifiy a value, it will map to any HTTP request.<br>
  Example: <br>
  `@RequestMapping(value = "/ex/example", method = POST)
  @ResponseBody
